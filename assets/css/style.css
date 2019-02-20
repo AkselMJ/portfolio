@@ -229,6 +229,8 @@ textarea.form-control {
  * General Styles
 /* ---------------------------------------------- */
 
+.inline-block   { display: inline-block; }
+
 .pfblock {
 	padding: 120px 0 100px;
 }
@@ -972,4 +974,3 @@ figure.effect-bubba:hover p {
 	}
 
 }
-
